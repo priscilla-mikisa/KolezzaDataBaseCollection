@@ -1,0 +1,3 @@
+2024-11-16 15:43:35,319 - INFO - Starting WebSocket server...
+2024-11-16 15:43:35,319 - DEBUG - Using selector: EpollSelector
+2024-11-16 15:43:35,332 - ERROR - Server error: argument of type 'int' is not iterable
